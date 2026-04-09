@@ -1,0 +1,5 @@
+augraphy>=8.2
+pymupdf>=1.24
+opencv-python>=4.8
+numpy>=1.24
+gradio>=4.0
