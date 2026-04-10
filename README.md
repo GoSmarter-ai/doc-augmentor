@@ -177,4 +177,4 @@ Each output folder includes a JSON manifest with full traceability:
 
 ## License
 
-MIT License — Zenith Global AI Ltd
+MIT License — Nightingale HQ Ltd
