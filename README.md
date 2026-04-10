@@ -4,7 +4,7 @@ Generate realistic augmented training data from PDF documents for document intel
 
 Drop a PDF, configure 25 augmentation effects, and generate hundreds of realistic variations — ink bleed, scanner noise, paper aging, JPEG compression, coffee stains, and more. Built for training classification, extraction, and OCR models in manufacturing and industrial settings.
 
-![UI Preview](docs/preview.png)
+![UI Preview](Screenshot 2026-04-10 101047.png)
 
 ## Features
 
